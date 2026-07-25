@@ -2,27 +2,29 @@
 
 ## AI Fullstack Engineer | Rust & Python
 
-Backend engineer with 4 years of experience building production systems.
+AI fullstack engineer with 9 years of experience building production systems.
 
 ## Skills
 
-- 🦀 Rust
-- 🐍 Python
-- 🗄️ SQL
-- 🔌 REST API
-- 🏗️ Distributed Systems
-- 🐳 Docker
-- ☁️ AWS
-- 🐧 Linuxx
+- Python
+- Typescript
+- Rust
+- SQL
+- REST API
+- Distributed Systems
+- Docker
+- AWS
+- Linuxx
 
 ## Experience
 
-**Backend Engineer**
+**AI fullstack Engineer**
 
-4 years of professional experience developing backend services with Rust and Python.
+9 years of professional experience developing AI fullstack services with Python, Rust and Typescript.
 
 Focus areas:
 - API development
+- Software design & build
 - System design (AI infra)
 - Performance optimization
 - Reliable software architecture
