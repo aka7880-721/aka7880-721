@@ -1,8 +1,8 @@
 # Hi, I'm Codeen Amir 👋
 
-## AI Fullstack Engineer | Rust & Python
+## AI Backend Software Engineer | Rust & Python
 
-AI fullstack engineer with 9 years of experience building production systems.
+AI Backend Software engineer with 9 years of experience building production systems.
 
 ## Skills
 
@@ -18,7 +18,7 @@ AI fullstack engineer with 9 years of experience building production systems.
 
 ## Experience
 
-**AI fullstack Engineer**
+**AI Backend Software Engineer**
 
 9 years of professional experience developing AI fullstack services with Python, Rust and Typescript.
 
