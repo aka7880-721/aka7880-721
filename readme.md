@@ -1,6 +1,6 @@
 # Hi, I'm Codeen Amir 👋
 
-## AI Backend Software Engineer | Rust & Python
+## AI Software Engineer | Rust & Python
 
 AI Backend Software engineer with 4 years of experience building production systems and 5 years of experience building in university.
 
@@ -18,9 +18,9 @@ AI Backend Software engineer with 4 years of experience building production syst
 
 ## Experience
 
-**AI Backend Software Engineer**
+**AI Software Engineer**
 
-4 years of professional experience developing AI fullstack services with Python, Rust and Typescript.
+9 years of professional experience developing AI fullstack services with Python, Rust and Typescript.
 
 Focus areas:
 - API development
