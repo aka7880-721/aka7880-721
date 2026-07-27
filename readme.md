@@ -2,7 +2,7 @@
 
 ## AI Backend Software Engineer | Rust & Python
 
-AI Backend Software engineer with 9 years of experience building production systems.
+AI Backend Software engineer with 4 years of experience building production systems and 5 years of experience building in university.
 
 ## Skills
 
@@ -20,7 +20,7 @@ AI Backend Software engineer with 9 years of experience building production syst
 
 **AI Backend Software Engineer**
 
-9 years of professional experience developing AI fullstack services with Python, Rust and Typescript.
+4 years of professional experience developing AI fullstack services with Python, Rust and Typescript.
 
 Focus areas:
 - API development
