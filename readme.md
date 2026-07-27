@@ -2,7 +2,7 @@
 
 ## AI Software Engineer | Rust & Python
 
-I am an AI backend software engineer with 4 years of experience building production systems and 5 years of learning and building experience at university.
+I am an AI software engineer with 4 years of experience building production systems and 5 years of learning and building experience at university.
 
 ## Skills
 
