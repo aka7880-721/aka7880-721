@@ -1,11 +1,12 @@
 # Hi, I'm Codeen Amir 👋
 
-## AI Software Engineer | Rust & Python
+## AI Software Engineer | Rust & Python & Typescript
 
 I am an AI software engineer with 4 years of experience building production systems and 5 years of learning and building experience at university.
 
 ## Skills
 
+- Rust
 - Python
 - Typescript
 - Rust
