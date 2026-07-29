@@ -15,7 +15,7 @@ I am an AI software engineer with 4 years of experience building production syst
 - Distributed Systems
 - Docker
 - AWS
-- Linuxx
+- Linux
 
 ## Experience
 
