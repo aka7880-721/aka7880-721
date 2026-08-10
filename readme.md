@@ -33,4 +33,4 @@ Focus areas:
 ## Contact
 
 - GitHub: https://github.com/aka-riku-arman
-- Email: hikidogor@gmail.com
+- Email: danielone403@gmail.com
