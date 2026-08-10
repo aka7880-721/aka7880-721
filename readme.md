@@ -1,4 +1,4 @@
-# Hi, I'm Codeen Amir 👋
+# Hi, I'm Aka Riku Arman 👋
 
 ## AI Software Engineer | Rust & Python & Typescript
 
