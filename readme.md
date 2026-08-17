@@ -2,6 +2,10 @@
 
 ## AI Software Engineer | Rust & Python & Typescript
 
+**AI Software Engineer**
+
+9 years of professional experience developing AI fullstack services with Python, Rust and Typescript.
+
 I am an AI software engineer with 4 years of experience building production systems and 5 years of learning and building experience at university.
 
 ## Skills
@@ -20,8 +24,6 @@ I am an AI software engineer with 4 years of experience building production syst
 ## Experience
 
 **AI Software Engineer**
-
-9 years of professional experience developing AI fullstack services with Python, Rust and Typescript.
 
 Focus areas:
 - API development
