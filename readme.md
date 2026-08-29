@@ -1,4 +1,4 @@
-# Hi, I'm Aka Riku Arman 👋
+# Hi, I'm Liam Murphy from Ireland 👋
 
 ## AI Software Engineer | Rust & Python & Typescript
 
