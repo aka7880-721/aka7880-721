@@ -34,5 +34,5 @@ Focus areas:
 
 ## Contact
 
-- GitHub: https://github.com/aka-riku-arman
+- GitHub: https://github.com/aka7880-721
 - Email: hikidogor@gmail.com
