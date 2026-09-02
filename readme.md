@@ -13,7 +13,6 @@ I am an AI software engineer with 4 years of experience building production syst
 - Rust
 - Python
 - Typescript
-- Rust
 - SQL
 - REST API
 - Distributed Systems
