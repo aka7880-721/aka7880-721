@@ -21,7 +21,9 @@
 
 <h2>AI Full Stack Engineer / Bypass Engineer</h2>
 
-<p>I have many years of development experiences.</p>
+<p>
+I have many years of development experiences.
+</p>
 
 <p>
 My goal is to give the client a positive impression of the project.
