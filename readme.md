@@ -19,7 +19,7 @@
 
 <td width="58%" valign="top">
 
-<h2>AI Full Stack Engineer / Blockchain Engineer</h2>
+<h2>AI Full Stack Engineer / Bypass Engineer</h2>
 <h3>Liam Murphy, Dublin, Ireland</h3>
 
 <p>
